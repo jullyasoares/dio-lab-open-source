@@ -25,6 +25,6 @@ Atualmente, sigo praticando e aprendendo com **HTML, CSS, JavaScript, Java e Pyt
 ---
 
 ## Bora nos conectar? 😊
-[![Meu LinkedIn](www.linkedin.com/in/jullyasantossoares-tech)    
+[Meu LinkedIn: ](www.linkedin.com/in/jullyasantossoares-tech)    
 
 ---
